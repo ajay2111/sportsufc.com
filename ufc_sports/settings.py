@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'ufc_users',
     'rest_framework',
     'frontend',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
